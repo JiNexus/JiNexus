@@ -11,19 +11,7 @@
 </h2>
 I love to create and contribute to OSS, and in the past few years I have created several projects, mostly related with web technologies.
 
-## 🔭 I'm currently working on
-
- - Jinesis web app project
- - JiNexus theme project
-
-## 🌱 I'm currently learning
-
-![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
-![RubixML](https://img.shields.io/badge/RubixML-%23D90007.svg?style=for-the-badge&logo=RubixML&logoColor=white)
-
-I also have a blog where I write about random things and software in general, [take a look](https://cv.jinexus.com/all-posts/).
-
-Tech Stacks:
+## ☕ Tech Stacks:
 
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -67,6 +55,24 @@ Tech Stacks:
 
 ![PhpStorm](https://img.shields.io/badge/phpstorm-143?style=for-the-badge&logo=phpstorm&logoColor=black&color=black&labelColor=darkorchid)
 ![WebStorm](https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black)
+
+## 🌱 I'm currently learning
+
+![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+![RubixML](https://img.shields.io/badge/RubixML-%23D90007.svg?style=for-the-badge&logo=RubixML&logoColor=white)
+
+## 🔭 I'm currently working on
+
+ 💠 Jinesis web app project
+
+ 💠 JiNexus theme project
+ 
+<br />
+
+> *__"The fact that I don't believe that I'm better than anyone else gives me an inevitable sense of superiority."__*
+##
+
+I also have a blog where I write about random things and software in general, [take a look](https://cv.jinexus.com/all-posts/).
 
 You can also follow me in my other social networks:
 
