@@ -76,6 +76,7 @@ I also have a blog where I write about random things and software in general, [t
 
 You can also follow me in my other social networks:
 
+<a href="https://stackoverflow.com/users/2651039/jinexus" target="_blank" rel="noreferrer">![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)</a>
 <a href="https://www.linkedin.com/in/jinexus" target="_blank" rel="noreferrer">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <!--
 **JiNexus/JiNexus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
