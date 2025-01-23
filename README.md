@@ -11,7 +11,7 @@
 </h2>
 I love to create and contribute to OSS, and in the past few years I have created several projects, mostly related with web technologies.
 
-## ☕ Tech Stacks:
+## ☕ Tech Stack:
 
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -56,12 +56,12 @@ I love to create and contribute to OSS, and in the past few years I have created
 ![PhpStorm](https://img.shields.io/badge/phpstorm-143?style=for-the-badge&logo=phpstorm&logoColor=black&color=black&labelColor=darkorchid)
 ![WebStorm](https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black)
 
-## 🌱 I'm currently learning
+## 🌱 I'm currently learning:
 
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 ![RubixML](https://img.shields.io/badge/RubixML-%23D90007.svg?style=for-the-badge&logo=RubixML&logoColor=white)
 
-## 🔭 I'm currently working on
+## 🔭 I'm currently working on:
 
  💠 Jinesis web app project
 
