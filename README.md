@@ -1,10 +1,14 @@
+<p align="center">
+    <a href="https://cv.jinexus.com" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/b303379d-9f6c-4bf5-bd65-399ab953e28b" alt="bug-get-ready-banner"></a>
+</p>
+
 <h3 align="center">
     Hi there, my name is <a href="https://cv.jinexus.com" target="_blank" rel="noreferrer">Jin (Jim)</a> 👋
 </h3>
 
 <h2 align="center">
-    I'm a Full-stack engineer 💻, based in Cebu (Philippines) and currently working for @FullScale as a Senior Full-stack Developer.
-</h2> 
+    I'm a Full-stack Engineer 💻, based in Cebu (Philippines) and currently working for @FullScale as a Senior Full-stack Developer.
+</h2>
 I love to create and contribute to OSS, and in the past few years I have created several projects, mostly related with web technologies.
 
 ## 🔭 I'm currently working on
