@@ -65,7 +65,7 @@ I love to create and contribute to OSS, and in the past few years I have created
 
  💠 Jinesis API project - In Progress
 
- 💠 Jinesis Web project In Progress
+ 💠 Jinesis Web project - In Progress
 
  💠 JiNexus theme project - On Hold
  
